@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hello there 👋, I'm Preston Burton</h1>
 <h3 align="center">An aspiring Full Stack JavaScript developer from Kansas, living in Oregon, open to relocation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-strange" alt="oliver-strange" /> </p>

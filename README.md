@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack JavaScript developer from Kansas, living in Oregon, open to relocation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-strange" alt="oliver-strange" /> </p>
 
-- 🔭 I’m currently working on **GraphQL Projects**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **just about anything**
 

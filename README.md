@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with **finding a new dev position**
 
-- 👨‍💻 Some of my projects are available at [prestonburton.dev](prestonburton.dev)
+- 👨‍💻 Some of my projects are available at [prestonburton.dev](https://www.prestonburton.dev)
 
 - 💬 Ask me about **Microservices, React, or Node**
 

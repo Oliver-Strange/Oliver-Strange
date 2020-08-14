@@ -19,3 +19,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/prestonburton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prestonburton" height="20" width="20" /></a>
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oliver-strange&show_icons=true&theme=calm" alt="oliver-strange" /> </p>
+
+<P align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-strange&layout=compact&hide=jupyternotebook" alt="most used languages" /> </p>
+  

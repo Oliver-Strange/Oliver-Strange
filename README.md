@@ -2,11 +2,11 @@
 <h3 align="center">An aspiring Full Stack JavaScript developer from Kansas, living in Oregon, open to relocation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-strange" alt="oliver-strange" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **[Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)**
 
 - 👯 I’m looking to collaborate on **just about anything**
 
-- 🤔 I’m looking for help with **finding a new dev position**
+- 🤔 I’m looking for help with **finding a junior developer position**
 
 - 👨‍💻 Some of my projects are available at [prestonburton.dev](https://www.prestonburton.dev)
 

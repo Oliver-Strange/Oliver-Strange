@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack JavaScript developer from Kansas, living in Oregon, open to relocation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-strange" alt="oliver-strange" /> </p>
 
-- 🔭 I’m currently working on **[Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)**
+- 🔭 I’m currently working on **Node Cookbook 4th Edition**
 
 - 👯 I’m looking to collaborate on **just about anything**
 
